@@ -1,0 +1,22 @@
+
+
+
+1.	Use recently created directory as a workspace for eclipse.
+
+2.	Write a unit test for the following method that reverses a string.				(2)
+
+	String revstring(String str) {
+	String nstr="";
+	char ch;
+		for (int i=0; i<str.length(); i++)
+    		{
+      			ch= str.charAt(i); 
+      			nstr= ch+nstr; 
+    		}
+    	return nstr;
+	}
+
+3.	Demonstrate how a conflict occurs in git. Resolve the conflict.					(4)
+4.	Save your progress in a local repository.							(1)
+5.	Create a new branch named your "rollnumber_sol". eg. "19000_sol".				(0.5)
+6.	Push the newly create branch to the remote repo.						(0.5)
