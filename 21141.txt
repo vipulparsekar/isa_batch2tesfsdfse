@@ -1,0 +1,11 @@
+
+
+
+1.	Use recently created directory as a workspace for eclipse.
+2.	Create a project named "CTISA". Write a program for adding three numbers, 
+	and write a unit test for the same.							(3)
+3.	Write proper documentation for the above class and 
+	generate documentation in html format.							(3)
+4.	Save your progress in a local repository.						(1)
+5.	Create a new branch named your "rollnumber_sol". eg. "19000_sol".			(0.5)
+6.	Push the newly create branch to the remote repository.					(0.5)
